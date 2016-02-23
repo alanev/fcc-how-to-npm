@@ -1,0 +1,18 @@
+{
+  "name": "fcc-how-to-npm",
+  "version": "1.0.1",
+  "description": "NPM project for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "alanev",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanev/fcc-how-to-npm"
+  }
+}
